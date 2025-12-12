@@ -19,6 +19,7 @@
   },
   "name":"Project01",
   "resources":[
+    {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
