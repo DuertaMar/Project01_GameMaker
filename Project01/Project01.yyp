@@ -21,11 +21,13 @@
   "resources":[
     {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Teste","path":"rooms/Teste/Teste.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Teste","path":"rooms/Teste/Teste.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
